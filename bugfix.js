@@ -1,0 +1,1 @@
+console.log('This has solved the bug on master branch. v1');
